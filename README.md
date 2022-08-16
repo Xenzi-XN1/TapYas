@@ -18,7 +18,7 @@ python Tap.py
 + Cek Akun CP
 + Cek Opsi
 
-# Hasil Dari Tools CFB
+# Hasil Dari Tools TapYas
 ![img](https://github.com/Xenzi-XN1/TapYas/blob/main/Tap/IMG_20220816_170310.jpg)
 
 # Thanks to
